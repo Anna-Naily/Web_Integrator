@@ -134,9 +134,10 @@ export default {
     &__list {
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-between;
+      justify-content: center;
       align-items: center;
       row-gap: rem(13px);
+      column-gap: rem(13px);
 
       width: 100%;
 

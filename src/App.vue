@@ -22,6 +22,7 @@ export default {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  overflow-x: hidden;
 
   &__footer {
     flex-shrink: 0;
