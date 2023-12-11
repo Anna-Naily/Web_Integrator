@@ -26,7 +26,7 @@ export default {
   &__pic {
     &--header {
       width: rem(135px);
-      height: rem(30.32px);
+      height: rem(31px);
     }
 
     &--footer {

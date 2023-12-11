@@ -133,8 +133,6 @@ export default {
 
     &--logo {
       order: 1;
-
-      width: rem(135px);
     }
 
     &--search {
